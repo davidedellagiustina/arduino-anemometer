@@ -4,7 +4,7 @@ An anemometer, namely a tool  which can measure wind speed, all built with spare
 
 ![Picture](photos/IMG_20151022_154947.jpg)
 
-# How it works
+## How it works
 
 The script just counts how many turns the anemometer does, then, knowing the length of its arms, it computes wind speed.
 
